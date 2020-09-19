@@ -91,4 +91,7 @@
  
    <!-- Whether usage of the proximity sensor during doze is supported -->
     <bool name="doze_proximity_sensor_supported">false</bool>
+
+    <!-- Whether device has FOD -->
+    <bool name="config_supportsInDisplayFingerprint">true</bool>
 </resources>
